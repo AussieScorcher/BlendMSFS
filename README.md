@@ -33,6 +33,10 @@ Your model will be exported to a new folder in the ModelLib directory.
 - Name collections and objects clearly
 - Check scale (MSFS uses meters)
 
+## Known Issues
+
+- Custom image textures not exporting correctly.
+
 ## Troubleshooting
 
 - Verify all paths are correct
