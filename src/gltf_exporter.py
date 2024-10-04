@@ -1,1 +1,0 @@
-# GLTF export functionality 
