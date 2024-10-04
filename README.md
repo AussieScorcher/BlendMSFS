@@ -2,7 +2,7 @@
 
 ## Download and Installation
 
-1. Go to the [BlendMSFS GitHub Releases page](https://github.com/username/BlendMSFS/releases) (replace with actual URL)
+1. Go to the [BlendMSFS GitHub Releases page](https://github.com/AussieScorcher/BlendMSFS/releases) 
 2. Download the latest release ZIP file
 3. In Blender: Edit > Preferences > Add-ons > Install > Select the ZIP file
 4. Enable the add-on by checking the box next to "Import-Export: BlendMSFS"
@@ -19,7 +19,7 @@
 2. In the MSFS Export panel:
    - Select your collection
    - Choose LOD levels (0-3)
-   - Set texture resolution and format
+   - Set texture resolution
    - Toggle XML generation
    - Adjust scale if needed
 3. Click "Export MSFS Model"
